@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌟 ¡Hola! Soy **Daniela Gallardo** 
+Soy una **Desarrolladora Web Front-End**, especializada en tecnologías modernas como **Vue.js**, **JavaScript**, **HTML5**, **CSS3** y **Sass**. Me apasiona crear aplicaciones web dinámicas y atractivas, enfocándome en la experiencia del usuario y la eficiencia del código.
 
-<!--
-**DanielaGallardu/DanielaGallardu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 De **Viña del Mar, Chile**  
+Orgullosamente chilena, de una ciudad vibrante donde la tecnología y la innovación están creciendo rápidamente. Creo en el poder de la tecnología para mejorar la vida de las personas, y me esfuerzo por estar al día en las últimas tendencias del desarrollo web.
 
-Here are some ideas to get you started:
+## 💛 ¿A qué me dedico?
+Actualmente, me dedico al desarrollo de **interfaces de usuario** modernas, centradas en experiencias atractivas y fluidas. Mi principal herramienta es **Vue.js**, aunque domino otras partes del ecosistema **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Formación continua
+Estoy cursando un **Bootcamp de Desarrollo de Aplicaciones Front-End** en **Desafío Latam**, donde perfecciono mis habilidades en **Vue.js**, **JavaScript ES6+**, **HTML5** y **CSS3**. También complemento mi formación con cursos en plataformas como **Platzi**, **Udemy** y **FreeCodeCamp**, siempre en búsqueda de nuevos aprendizajes.
+
+## 💼 Experiencia
+Aunque mi carrera profesional está en crecimiento, he trabajado en proyectos personales que reflejan mi dedicación y amor por el desarrollo web. Estos proyectos muestran mi capacidad para crear soluciones innovadoras utilizando las tecnologías más actuales.
+
+## 📬 ¡Conéctate conmigo!
+Si te interesa colaborar o simplemente conversar sobre desarrollo web, puedes contactarme a través de:
+
+- 📧 **Correo electrónico**: [daniela.gallardoco@gmail.com](mailto:daniela.gallardoco@gmail.com)  
+- 💼 **GitHub**: [DanielaGallardu](https://github.com/DanielaGallardu)
